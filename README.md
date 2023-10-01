@@ -1,6 +1,6 @@
 ### Hi there, I'm Mathys Gasnier 👋
 
-Always seeking for new and interesting challenges !
+Always seeking new and interesting challenges !
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,regex,docker,git,html,css,java,vscode)](https://skillicons.dev)
