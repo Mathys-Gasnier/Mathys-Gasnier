@@ -3,9 +3,10 @@
 Always seeking new and interesting challenges !
 
 ## Past and current experiences
-- 2024 - now - Freelance at MGasnierDev
-- 2024 - 3 months - Internship with Synergiz
-- 2024 - 7 months - Internship with HeadChef
+- 2025 - now - Fullstack Developper at QuelBonPlan (Saint-Malo, France)
+- 2024 - now - Freelance at MGasnierDev (Remote, Dinard, France)
+- 2024 - 3 months - Internship with Synergiz (Saint-Malo, France)
+- 2024 - 7 months - Internship with HeadChef (Remote, Seattle, US)
 
 ## Diplomas
 - 2024 - Bac+3 - Concepteur développeur d'application (Fullstack Bachelor Degree)
